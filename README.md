@@ -1,4 +1,4 @@
-# nascell-automl
+# AutoML
 This code belongs to the "Simple implementation of Neural Architecture Search with Reinforcement Learning
 " blog post.
 
@@ -7,7 +7,7 @@ https://lab.wallarm.com/the-first-step-by-step-guide-for-implementing-neural-arc
 
 # Requirements
 - Python 3
-- Tensorflow > 1.4
+- Tensorflow == 1.10
 
 # Training
 Print parameters:
